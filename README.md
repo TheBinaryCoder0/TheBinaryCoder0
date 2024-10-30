@@ -18,6 +18,7 @@
 ### 👨‍💻 Projects
 - **[GlamGrid](https://github.com/TheBinaryCoder0/GlamGrid)**: A stylish e-commerce site for fashion products, built using HTML, CSS, and JavaScript, soon to be scaled with React.
 - **[RayBan](https://thebinarycoder0.github.io/RAYBAN/)**: An interactive and responsive showcase of RayBan’s product offerings, designed with dynamic animations to create a visually immersive experience for users
+- **[Landing Page](https://thebinarycoder0.github.io/first-landing-page/)**: This landing page offers concise plant care tips with a natural, engaging design, soon to be responsive for easy access across all devices.
 
 ---
 
