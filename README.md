@@ -1,5 +1,5 @@
-![Orange Banner](https://dummyimage.com/1200x100/FFA500/ffffff&text=Hey+there+'👋') 
-![Yellow Banner](https://dummyimage.com/1200x200/B27300/ffffff&text=I'm+Aman+Shahi)
+![Orange Banner](https://dummyimage.com/1200x100/FFA500/ffffff&text=Hey+there.) 
+![Yellow Banner](https://dummyimage.com/1200x100/B27300/ffffff&text=I'm+Aman+Shahi.)
 
 
 I'm a passionate software developer and a competitive programmer with a love for frontend development and building projects that make an impact.
