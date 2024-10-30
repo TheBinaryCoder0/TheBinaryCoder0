@@ -11,6 +11,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c&logoColor=white)
 
 ---
 
