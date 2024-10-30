@@ -1,3 +1,5 @@
+![Orange Banner](https://dummyimage.com/1200x200/FFA500/ffffff&text=Welcome+to+My+Profile)
+
 # Hi there 👋, I’m Aman Shahi!
 
 I'm a passionate software developer and a competitive programmer with a love for frontend development and building projects that make an impact.
@@ -17,8 +19,7 @@ I'm a passionate software developer and a competitive programmer with a love for
 
 ### 👨‍💻 Projects
 - **[GlamGrid](https://github.com/TheBinaryCoder0/GlamGrid)**: A stylish e-commerce site for fashion products, built using HTML, CSS, and JavaScript, soon to be scaled with React.
-- **[Book Arch](https://github.com/TheBinaryCoder0/BookArch)**: A community platform for book exchanges, allowing users to list and connect over shared book interests.
-- **[RayBan Clone](https://thebinarycoder0.github.io/RAYBAN/)**: A visually engaging clone of RayBan’s product site with a focus on responsive, interactive design.
+- **[RayBan](https://thebinarycoder0.github.io/RAYBAN/)**: An interactive and responsive showcase of RayBan’s product offerings, designed with dynamic animations to create a visually immersive experience for users
 
 ---
 
