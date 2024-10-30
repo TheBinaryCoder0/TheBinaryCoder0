@@ -1,6 +1,4 @@
-![Orange Banner](https://dummyimage.com/1200x200/FFA500/ffffff&text=Welcome+to+My+Profile)
-
-# Hi there 👋, I’m Aman Shahi!
+![Orange Banner](https://dummyimage.com/1200x200/FFA500/ffffff&text=Hey+there+👋)
 
 I'm a passionate software developer and a competitive programmer with a love for frontend development and building projects that make an impact.
 
