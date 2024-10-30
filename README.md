@@ -29,8 +29,8 @@ I'm a passionate software developer and a competitive programmer with a love for
 ---
 
 ### 📫 Connect with me!
-- [LinkedIn](https://www.linkedin.com/in/thebinarycoder0)
-- [Twitter](https://twitter.com/thebinarycoder0)
+- [LinkedIn](https://www.linkedin.com/in/aman-shahi-23424a1b3/)
+- [Twitter](https://x.com/Amanshahi06)
 - [GitHub](https://github.com/TheBinaryCoder0)
 
 Thanks for visiting! 😊 Let’s build something amazing together.
