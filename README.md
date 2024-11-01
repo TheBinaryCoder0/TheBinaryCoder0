@@ -1,4 +1,4 @@
-![Orange Banner](https://dummyimage.com/1200x100/FFA600/ffffff&text=Hey+there.) 
+![Orange Banner](https://dummyimage.com/1200x100/FF8C00/ffffff&text=Hey+there.) 
 ![Yellow Banner](https://dummyimage.com/1200x100/B27300/ffffff&text=I'm+Aman+Shahi.)
 
 ---
