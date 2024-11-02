@@ -19,6 +19,7 @@
 - **[Portfolio](https://thebinarycoder0.github.io/PORTFOLIO_AMAN/)**: A visual and interactive representation of my skills, experiences, and projects.
 - **[ArchWay]()**:IN PROGRESS.
 - **[GlamGrid](https://thebinarycoder0.github.io/GlamGrid/index.html)**: A stylish e-commerce site for fashion products, built using HTML, CSS, and JavaScript, soon to be scaled with React.
+- **[Docs.](https://thebinarycoder0.github.io/DOCS/)**: A modern documentation platform built with React and Vite, featuring smooth animations using Framer Motion.
 - **[RayBan](https://thebinarycoder0.github.io/RAYBAN/)**: An interactive and responsive showcase of RayBan’s product offerings, designed with dynamic animations to create a visually immersive experience for users.
 - **[Landing Page](https://thebinarycoder0.github.io/first-landing-page/)**: This landing page offers concise plant care tips with a natural, engaging design, soon to be responsive for easy access across all devices.
 
