@@ -15,8 +15,10 @@
 
 ---
 
-### Resume 📝
+###  📝 Resume
 ![View Resume]()
+
+---
 
 ### 👨‍💻 Projects
 - **[Portfolio](https://thebinarycoder0.github.io/PORTFOLIO_AMAN/)**: A visual and interactive representation of my skills, experiences, and projects.
