@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 Projects
-- **[Portfolio](https://thebinarycoder0.github.io/PORTFOLIO_AMAN/)**: A visual and interactive representation of my skills, experiences, and projects.
+- **[Portfolio](https://portfolio-thebinarycoder.netlify.app/)**: A visual and interactive representation of my skills, experiences, and projects.
 - **[ArchWay]()**:A book selling platform where the users can sell their books and can purchase them also.
 - **[GlamGrid](https://thebinarycoder0.github.io/GlamGrid/index.html)**: A stylish e-commerce site for fashion products, built using HTML, CSS, and JavaScript, soon to be scaled with React.
 - **[Docs.](https://thebinarycoder0.github.io/DOCS/)**: A modern documentation platform built with React and Vite, featuring smooth animations using Framer Motion.
