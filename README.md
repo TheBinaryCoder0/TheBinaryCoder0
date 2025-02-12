@@ -40,5 +40,9 @@
 - [LinkedIn](https://www.linkedin.com/in/aman-shahi-23424a1b3/)
 - [Twitter](https://x.com/Amanshahi06)
 - [GitHub](https://github.com/TheBinaryCoder0)
+- [CodeChef](https://www.codechef.com/users/thebinarycoder)
+- [Codeforces](https://codeforces.com/profile/TheBinaryCoder)
+- [AtCoder](https://atcoder.jp/users/BinaryCoder)
+- [Leetcode](https://leetcode.com/u/TheBinaryCoder0/)
 
 Thanks for visiting! 😊 Let’s build something amazing together.
